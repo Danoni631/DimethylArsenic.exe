@@ -12,7 +12,7 @@ Colorfull invert: ZDominik11, i take it from Sigma
 
 Video creating system: Pankoza, i take it from Ethylenediaminetetraacetate
 
-I gonna give the beta to N17Pro3426
+I gonna give the beta to everyone to see how this malware is going. When the final version release i gonna give full source-code
 
 ### For skidders
 If you gonna use some code of this malware, give credit to people that made the other stuff i used in this malware, and the other effects, give credits to me. And DON'T USE MBR payload kernel, icon or name of this malware.
